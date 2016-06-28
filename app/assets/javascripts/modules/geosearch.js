@@ -33,6 +33,7 @@
       baseUrl: '',
       searcher: function() {
         History.pushState(null, document.title, this.getSearchUrl());
+        // window.location.href = this.getSearchUrl();
       },
       delay: 800,
       bindToMap: true,

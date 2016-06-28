@@ -1,0 +1,22 @@
+Fixup Stuff:	
+
+#1. home page -> find location box should dissapear when small. Like map div.
+2. home page -> investigate viewport issues
+#3. index -> restore access facet, subject facet?
+#4. geoserver styles for princeton material - nyu has good example
+#5. fix coveralls
+6. logo -> something like nyu's. very nice.
+# 7. #61 map width issue
+#8. #77 hide more details in show page
+#9. #78 don't go home after sign index
+#10. // it does, but not when there are no query params #88 Back to search button does not take user back to search. Maybe issue should be default search doesnt actually add * query param
+
+http://libruby-dev:8080/pulmap/collection1
+
+
+11. Border around iiif viewer (maybe)
+12. Supress mouse wheel zoom (iiif, wms, etc)
+13. Improve "Map Search" button on homepage. Toggle.
+14. Map ON/OFF not working on index page. Toggle not working. "Hide Map" / "Show Map"
+15. Thumbnail JS not working on index page. 
+16. Index -> minimum page length to cover map panel
